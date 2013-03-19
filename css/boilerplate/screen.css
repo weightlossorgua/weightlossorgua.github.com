@@ -1,0 +1,23 @@
+/* -------------------------------------------------------------- 
+  
+   Boilerplate Screen Styles
+   * Version:   0.5 (2007-11-19)
+   
+-------------------------------------------------------------- */
+
+@import "lib/reset.css";
+@import "lib/typography.css";
+@import "lib/forms.css";
+@import "lib/plugins.css";
+
+
+/* Site
+-------------------------------------------------------------- */
+  
+  /* Put your site styles here */
+
+div#container {width:950px; margin:12px auto;}
+
+form#login_form {width:62%; margin:12px auto; text-align:center}
+
+div#navigation {width:62%; margin:8px auto; text-align:right;}

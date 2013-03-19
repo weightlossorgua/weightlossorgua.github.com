@@ -1,0 +1,38 @@
+h2#caption_navigation {
+	margin-top:32px;
+	padding-top:18px;
+	border-top:1px dotted #fff;
+	color:#fff;
+	margin-bottom:12px;
+}
+ul#navigation {
+	list-style:none;
+	margin:0 auto;
+	padding-bottom:18px;
+	border-bottom:1px dotted #fff;
+}
+
+a {
+	color:#fff;
+}
+
+body {
+	background-color:#3F3F3F;
+	color:#ccc;
+}
+div#content {
+	margin-top:32px;
+	
+}
+
+h1#header {
+	margin-top:50px;
+	padding-bottom:50px;
+	text-align:center;
+	text-transform:uppercase;
+	border-bottom:1px dotted #fff;
+	font-size:52px;
+	font-weight:normal;
+	letter-spacing:2px;
+	color:#fff;
+}
